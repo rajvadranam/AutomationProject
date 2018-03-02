@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,TFCNumber,AccountingCodeType,NewAccountingCodeType,AccountingCodeValue
+1,Yes,,US5219_BR01_TC001,Account Admin_Configures_ Account Codes,#USER_EXTERNAL_REED_EVINS_ACCOUNT_ADMIN,#USER_EXTERNAL_REED_EVINS_ACCOUNT_ADMIN_PASSWORD,#ACCOUNT_REEDEVINS_TFC_NUMBER,Automation AC,New Automation AC,Automation AC Value

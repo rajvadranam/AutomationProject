@@ -1,0 +1,3 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,PassWord,ProjectName,ProjectAccountName,PartDescription,Facility,Location,Booth,Quantity,NeedsCollaboration,DueDate
+1,Yes,,US5264_BR06_TC012_02,LineItem Details_Floor Plan Booth Layout template_Line Item Description Field,#USER_INTERNAL_EXPO_PROJECT_ADMIN_NAME,Freeman1,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXHIBIT_TSS_FULL_ORDER,Floor Plan Other,#FACILITY2,#FACILITY2_LOCATION2,#TSS_FULL_ORDER_EXHIBIT_BOOTH1,5,TRUE,#DUE_DATE
+2,Yes,,US5264_BR06_TC012_02,LineItem Details_Floor Plan Booth Layout template_Line Item Description Field,psp-ae-test07,Freeman1,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXHIBIT_TSS_FULL_ORDER,Floor Plan Other,#FACILITY2,#FACILITY2_LOCATION2,#TSS_FULL_ORDER_EXHIBIT_BOOTH1,5,TRUE,#DUE_DATE

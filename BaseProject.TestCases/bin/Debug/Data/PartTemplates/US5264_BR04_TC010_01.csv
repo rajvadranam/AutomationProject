@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,InternalUserName,Password,ProjectName,ProjectAccount,Part,FunctionalArea,Booth,Facility,Location,DueDate,PastDate,Quantity
+1,Yes,18738,US5264_BR04_TC010_01,Internal user_View Due date field(Project admin)-Expo,#USER_INTERNAL_EXPO_PROJECT_ADMIN_NAME,Freeman1,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXPO_TSS_FULL_ORDER,AV Other,#TSS_FULL_ORDER_EXPO_FUNCTIONAL_AREA1,#TSS_FULL_ORDER_EXPO_BOOTH1,#FACILITY2,#FACILITY2_LOCATION2,05/05/2016,05/05/2014,5

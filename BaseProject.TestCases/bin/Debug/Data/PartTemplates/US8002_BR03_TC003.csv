@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,ProjectName,ProjectAccountName,PartDescription,FunctionalArea,Quantity,DesignBranch,MetalPreference,Booth
+1,Yes,,US8002_BR03_TC003,Required fields_Structure parts_Expo account,#USER_INTERNAL_PASSPORT_ADMIN_NAME,Freeman1,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXPO_TSS_FULL_ORDER,MIS STANDARD REGISTRATION COUNTER,#TSS_FULL_ORDER_EXPO_FUNCTIONAL_AREA1,7,TEST,Standard - Black,#TSS_FULL_ORDER_EXPO_BOOTH1

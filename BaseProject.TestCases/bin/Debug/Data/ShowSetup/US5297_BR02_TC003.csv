@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,TFCNumber,AccountingCodeType1,AccountingCodeType2,AccountingCodeType3,AccountingCodeType4,AccountingCodeValue
+1,Yes,,US5297_BR02_TC003,AE_ Maintains_Accounting Codes_For All Accounts,#USER_INTERNAL_PASSPORT_ADMIN2_NAME,#USER_INTERNAL_PASSPORT_ADMIN2_PASSWORD,#ACCOUNT_REEDEVINS_TFC_NUMBER,Automation AC1,Automation AC2,Automation AC3,Automation AC4,Automation AC Value

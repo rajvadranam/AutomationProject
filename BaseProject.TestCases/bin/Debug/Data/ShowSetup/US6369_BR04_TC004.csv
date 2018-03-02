@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,Vendor,PriceListName,PriceListFileName
+1,Yes,,US6369_BR04_TC004,Delete One Vendor Pricelist At A Time,#USER_EXTERNAL_VENDOR_PERMISSION_NAME,#USER_EXTERNAL_VENDOR_PERMISSION_PASSWORD,#VENDOR_THIRD_PARTY,US6369_BR04_TC004,PriceListTemplate1.csv

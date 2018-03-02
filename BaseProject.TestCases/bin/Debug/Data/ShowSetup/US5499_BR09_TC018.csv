@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,Project,Account,Booth,Functional Area,Part,Quantity,Action Button Type,Branch,Facility,Location
+1,Yes,,US5499_BR09_TC018,Cannot delete account and booth having TSS order,#USER_INTERNAL_PASSPORT_ADMIN2_NAME,#USER_INTERNAL_PASSPORT_ADMIN2_PASSWORD,#SHOW_TSS_FULL_ORDER,##ACCOUNT_EXHIBIT_TSS_FULL_ORDER,#TSS_FULL_ORDER_EXHIBIT_BOOTH1,FDC OFFICE,#PART_LABOR_FREEMANAV,60,Submit to Collaboration,TEST,#FACILITY2,#FACILITY2_LOCATION2

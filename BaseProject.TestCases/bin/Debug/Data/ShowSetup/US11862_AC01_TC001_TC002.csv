@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,Project,Account
+1,Yes,,US11862_AC01_TC001_TC002,Verify whether user is able to view Project Account Information page link on Project details page,#USER_EXTERNAL_EXPO_PROJECT_TEAM_ADMIN1_ORDER_NAME,#USER_EXTERNAL_EXPO_PROJECT_TEAM_ADMIN1_ORDER_PASSWORD,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXPO_TSS_FULL_ORDER

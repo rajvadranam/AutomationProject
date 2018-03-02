@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,ProjectName,FreemanUserName,FreemanPassword,FreemanUserFullName,FreemanUserEmail,ProjectNumber
+1,Yes,,US5739_BR04_TC006,Delete Internal User_Assigned to Project account team Freeman users _Verify Internal User Dashboard,PSP-AE-TEST13,#USER_INTERNAL_PASSPORT_ADMIN_PASSWORD,#SHOW_BRANCH_TEMPLATE,PSP-AE-TEST13,#USER_INTERNAL_EXHIBIT_PROJECT_ADMIN_PASSWORD,#USER_INTERNAL_EXHIBIT_PROJECT_ADMIN_FULLNAME,#USER_INTERNAL_EXHIBIT_PROJECT_ADMIN_EMAIL,318851

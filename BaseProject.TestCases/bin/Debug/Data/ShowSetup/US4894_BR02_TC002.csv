@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,Vendor,PriceListName,PriceListFileName,PriceListFileUploadDate
+1,Yes,,US4894_BR02_TC002,Maintain Meta Data,#USER_EXTERNAL_VENDOR_PERMISSION_NAME,#USER_EXTERNAL_VENDOR_PERMISSION_PASSWORD,#VENDOR_THIRD_PARTY,Automation_Test,PriceListTemplate.csv,11/20/2014 06:08 pm

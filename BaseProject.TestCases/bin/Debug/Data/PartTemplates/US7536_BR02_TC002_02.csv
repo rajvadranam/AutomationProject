@@ -1,0 +1,5 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,ProjectName,ProjectAccountName,PartDescription
+1,Yes,,US7536_BR02_TC002_02,LineItem Details_Floor Plan Booth Layout template_Booth Size Field,#USER_INTERNAL_EXHIBIT_PROJECT_AE,Freeman1,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXHIBIT_TSS_FULL_ORDER,Floor Plan Booth Layout
+2,Yes,,US7536_BR02_TC002_02,LineItem Details_Floor Plan Booth Layout template_Booth Size Field,#USER_EXTERNAL_EXHIBIT_ACCOUNT_ADMIN_NAME,Freeman1,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXHIBIT_TSS_FULL_ORDER,Floor Plan Booth Layout
+3,Yes,,US7536_BR02_TC002_02,LineItem Details_Floor Plan Booth Layout template_Booth Size Field,#USER_EXTERNAL_EXHIBIT_PROJECT_TEAM_ADMIN_NAME,Freeman1,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXHIBIT_TSS_FULL_ORDER,Floor Plan Booth Layout
+4,Yes,,US7536_BR02_TC002_02,LineItem Details_Floor Plan Booth Layout template_Booth Size Field,#USER_EXTERNAL_EXHIBIT_PROJECT_TEAM_ADMIN_ORDER_NAME,Freeman1,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXHIBIT_TSS_FULL_ORDER,Floor Plan Booth Layout

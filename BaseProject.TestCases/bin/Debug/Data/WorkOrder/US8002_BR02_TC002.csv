@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,ProjectName,ProjectAccountName,PartDescription,FileOwner,BoothSize,NumberingInformation,CarpetInformation,FunctionalArea,Quantity
+1,Yes,,US8002_BR02_TC002,Required fields_Floor plan parts,#USER_EXTERNAL_EXPO_ACCOUNT_ADMIN_NAME,Freeman1,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXPO_TSS_FULL_ORDER,Floor Plan Exhibit Hall,#FILE_OWNER,10 x 20,Street,Standard Lay,#TSS_FULL_ORDER_EXPO_FUNCTIONAL_AREA1,5

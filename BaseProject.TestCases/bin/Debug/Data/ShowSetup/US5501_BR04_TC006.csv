@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,Project,Account,AreaTemplate
+1,Yes,18396,US5501_BR04_TC006,Preview Area Template,#USER_INTERNAL_PASSPORT_ADMIN2_NAME,#USER_INTERNAL_PASSPORT_ADMIN2_PASSWORD,Automation Internal Project,FREEMAN - 149883 (Expo),San Diego

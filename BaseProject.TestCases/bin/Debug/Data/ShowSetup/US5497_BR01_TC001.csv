@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,ProjectName,InternalProject,ProjectOpenDate,ProjectCloseDate,ContactName,ProducingBranch,Acronym
+1,Yes,,US5497_BR01_TC001,Create Internal Projects_Freeman Sales users,#USER_INTERNAL_AE8,#USER_INTERNAL_AE8_PASSWORD,CignitiTest5,CT5,08/08/2015,08/08/2018,Cigniti,AUSTIN,CT5

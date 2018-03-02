@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,ProjectName,FOLUserName
+1,Yes,18797,US5493_BR01_TC001,Verify the default permissions of an external user  as being a team member who is newly added to project account team,#USER_INTERNAL_PASSPORT_ADMIN_NAME,#USER_INTERNAL_PASSPORT_ADMIN_PASSWORD,#SHOW_TSS_FULL_ORDER,Cigniti FOL13

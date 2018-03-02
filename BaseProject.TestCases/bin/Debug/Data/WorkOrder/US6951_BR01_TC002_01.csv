@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,ProjectName,ProjectAccount,PartDescription,FunctionalArea,Booth,Facility,PanelColor,ParentBomSelectables,ChildBomSelectables,Quantity,Location
+1,Yes,,US6951_BR01_TC002_01,Required fields_Submit an order to Freeman & TSS_Order 3 template,#USER_INTERNAL_PASSPORT_ADMIN_NAME,Freeman1,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXPO_TSS_FULL_ORDER,#PART_STRUCTURE_NON_EXHIBIT2,#TSS_FULL_ORDER_EXPO_FUNCTIONAL_AREA1,#TSS_FULL_ORDER_EXPO_BOOTH1,#FACILITY2,Red,WHITE PVC,BLACK,7,#FACILITY2_LOCATION2

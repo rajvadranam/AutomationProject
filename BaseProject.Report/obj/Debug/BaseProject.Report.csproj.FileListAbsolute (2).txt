@@ -1,0 +1,33 @@
+C:\Simplify\Passport.TestAutomation\Branches\QA-Threading\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.dll
+C:\Simplify\Passport.TestAutomation\Branches\QA-Threading\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.pdb
+C:\Simplify\Passport.TestAutomation\Branches\QA-Threading\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.dll
+C:\Simplify\Passport.TestAutomation\Branches\QA-Threading\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.pdb
+C:\Users\IN00020\Desktop\Cigniti Automation Framework\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.dll
+C:\Users\IN00020\Desktop\Cigniti Automation Framework\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.pdb
+C:\Users\IN00020\Desktop\Cigniti Automation Framework\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.dll
+C:\Users\IN00020\Desktop\Cigniti Automation Framework\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.pdb
+D:\Users\bdasari\Desktop\Cigniti\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.dll
+D:\Users\bdasari\Desktop\Cigniti\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.pdb
+D:\Users\bdasari\Desktop\Cigniti\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.csprojResolveAssemblyReference.cache
+D:\Users\bdasari\Desktop\Cigniti\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.dll
+D:\Users\bdasari\Desktop\Cigniti\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.pdb
+D:\Users\sbangariahgari\Desktop\Cigniti\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.dll
+D:\Users\sbangariahgari\Desktop\Cigniti\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.pdb
+D:\Users\sbangariahgari\Desktop\Cigniti\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.csprojResolveAssemblyReference.cache
+D:\Users\sbangariahgari\Desktop\Cigniti\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.dll
+D:\Users\sbangariahgari\Desktop\Cigniti\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.pdb
+D:\Users\sbangariahgari\Desktop\Cigniti\CignitiDev\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.dll
+D:\Users\sbangariahgari\Desktop\Cigniti\CignitiDev\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.pdb
+D:\Users\sbangariahgari\Desktop\Cigniti\CignitiDev\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.csprojResolveAssemblyReference.cache
+D:\Users\sbangariahgari\Desktop\Cigniti\CignitiDev\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.dll
+D:\Users\sbangariahgari\Desktop\Cigniti\CignitiDev\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.pdb
+C:\myDATA\Cigniti_Old\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.dll.config
+C:\myDATA\Cigniti_Old\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.dll
+C:\myDATA\Cigniti_Old\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.pdb
+C:\myDATA\Cigniti_Old\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\bin\Debug\System.Net.Http.Extensions.dll
+C:\myDATA\Cigniti_Old\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\bin\Debug\System.Net.Http.Primitives.dll
+C:\myDATA\Cigniti_Old\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\bin\Debug\System.Net.Http.Extensions.xml
+C:\myDATA\Cigniti_Old\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\bin\Debug\System.Net.Http.Primitives.xml
+C:\myDATA\Cigniti_Old\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.csproj.App.config
+C:\myDATA\Cigniti_Old\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.dll
+C:\myDATA\Cigniti_Old\CignitiAutomationFramework\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.pdb

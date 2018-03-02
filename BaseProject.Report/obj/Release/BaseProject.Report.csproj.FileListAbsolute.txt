@@ -1,0 +1,13 @@
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Release\BaseProject.Report.dll.config
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Release\BaseProject.Report.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Release\BaseProject.Report.pdb
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Release\RelevantCodes.ExtentReports.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Release\System.Net.Http.Extensions.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Release\System.Net.Http.Primitives.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Release\System.Net.Http.Extensions.xml
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Release\System.Net.Http.Primitives.xml
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\obj\Release\BaseProject.Report.csproj.App.config
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\obj\Release\BaseProject.Report.csprojResolveAssemblyReference.cache
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\obj\Release\BaseProject.Report.csproj.CoreCompileInputs.cache
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\obj\Release\BaseProject.Report.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\obj\Release\BaseProject.Report.pdb

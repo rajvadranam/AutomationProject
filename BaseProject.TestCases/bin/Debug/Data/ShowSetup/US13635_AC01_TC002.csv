@@ -1,0 +1,3 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,Project
+1,Yes,,US13635_AC01_TC002,AE_Can navigate to Project Details page on  Tile view from dashboard_''Info-Sign'' icon,#USER_INTERNAL_PASSPORT_ADMIN2_NAME,#USER_INTERNAL_PASSPORT_ADMIN2_PASSWORD,#SHOW_TSS_FULL_ORDER
+2,Yes,,US13635_AC01_TC002,AE_Can navigate to Project Details page on  Tile view from dashboard_''Info-Sign'' icon,#USER_INTERNAL_EXPO_PROJECT_ADMIN_NAME,#USER_INTERNAL_PASSPORT_ADMIN_PASSWORD,#SHOW_INTERNAL_NON_FULL_ORDER

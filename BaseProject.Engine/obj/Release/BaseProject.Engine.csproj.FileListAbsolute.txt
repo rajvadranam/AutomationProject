@@ -1,0 +1,3 @@
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Engine\obj\Release\BaseProject.Engine.csproj.App.config
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Engine\obj\Release\BaseProject.Engine.csprojResolveAssemblyReference.cache
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Engine\obj\Release\BaseProject.Engine.csproj.CoreCompileInputs.cache

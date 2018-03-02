@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,ProjectName,ProjectAccountName,PartDescription,FunctionalArea,Facility,Location,Quantity,Design Branch,Status,Referance,Actions
+1,Yes,,US7540_BR01_TC001,Details displayed_AV Theme Development template parts,#USER_INTERNAL_PASSPORT_ADMIN_NAME,Freeman1,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXPO_TSS_FULL_ORDER,AV Theme Development,#TSS_FULL_ORDER_EXPO_FUNCTIONAL_AREA1,#FACILITY2,#FACILITY2_LOCATION2,5,ANAHEIM - WRDC,IN PROGRESS,PASSPORT_#505758,Save Changes

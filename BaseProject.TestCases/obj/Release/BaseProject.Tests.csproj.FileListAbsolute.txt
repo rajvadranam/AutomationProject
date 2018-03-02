@@ -1,0 +1,3 @@
+D:\CS_Development\Selenium\AutomationProject\BaseProject.TestCases\obj\Release\BaseProject.Tests.csproj.App.config
+D:\CS_Development\Selenium\AutomationProject\BaseProject.TestCases\obj\Release\BaseProject.Tests.csprojResolveAssemblyReference.cache
+D:\CS_Development\Selenium\AutomationProject\BaseProject.TestCases\obj\Release\BaseProject.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,44 @@
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.dll.config
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.dll
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury.Report\bin\Debug\Cigniti.Automation.Mercury.Report.pdb
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury.Report\bin\Debug\System.Net.Http.Extensions.dll
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury.Report\bin\Debug\System.Net.Http.Primitives.dll
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury.Report\bin\Debug\System.Net.Http.Extensions.xml
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury.Report\bin\Debug\System.Net.Http.Primitives.xml
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury.Report\obj\Debug\BaseProject.Report.csproj.App.config
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury.Report\obj\Debug\BaseProject.Report.csprojResolveAssemblyReference.cache
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.dll
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury.Report\obj\Debug\Cigniti.Automation.Mercury.Report.pdb
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury.Report\bin\Debug\BaseProject.Report.dll.config
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury.Report\bin\Debug\BaseProject.Report.dll
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury.Report\bin\Debug\BaseProject.Report.pdb
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury.Report\bin\Debug\System.Net.Http.Extensions.dll
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury.Report\bin\Debug\System.Net.Http.Primitives.dll
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury.Report\bin\Debug\System.Net.Http.Extensions.xml
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury.Report\bin\Debug\System.Net.Http.Primitives.xml
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury.Report\obj\Debug\BaseProject.Report.csproj.App.config
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury.Report\obj\Debug\BaseProject.Report.dll
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury.Report\obj\Debug\BaseProject.Report.pdb
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Report\bin\Debug\BaseProject.Report.dll.config
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Report\bin\Debug\BaseProject.Report.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Report\bin\Debug\BaseProject.Report.pdb
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Report\bin\Debug\System.Net.Http.Extensions.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Report\bin\Debug\System.Net.Http.Primitives.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Report\bin\Debug\System.Net.Http.Extensions.xml
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Report\bin\Debug\System.Net.Http.Primitives.xml
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Report\obj\Debug\BaseProject.Report.csproj.App.config
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Report\obj\Debug\BaseProject.Report.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Report\obj\Debug\BaseProject.Report.pdb
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Debug\BaseProject.Report.dll.config
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Debug\BaseProject.Report.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Debug\BaseProject.Report.pdb
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Debug\RelevantCodes.ExtentReports.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Debug\System.Net.Http.Extensions.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Debug\System.Net.Http.Primitives.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Debug\System.Net.Http.Extensions.xml
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\bin\Debug\System.Net.Http.Primitives.xml
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\obj\Debug\BaseProject.Report.csproj.App.config
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\obj\Debug\BaseProject.Report.csprojResolveAssemblyReference.cache
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\obj\Debug\BaseProject.Report.csproj.CoreCompileInputs.cache
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\obj\Debug\BaseProject.Report.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Report\obj\Debug\BaseProject.Report.pdb

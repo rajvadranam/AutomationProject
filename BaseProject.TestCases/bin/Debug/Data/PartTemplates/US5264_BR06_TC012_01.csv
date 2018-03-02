@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,PassWord,ProjectName,ProjectAccountName,PartDescription,FunctionalArea,Facility,Location,Booth,Quantity,NeedsCollaboration,DueDate
+1,Yes,,US5264_BR06_TC012_01,LineItem Details_Floor Plan Booth Layout template_Line Item Description Field,#USER_INTERNAL_EXPO_PROJECT_ADMIN_NAME,Freeman1,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXPO_TSS_FULL_ORDER,Floor Plan Other,MISCELLANEOUS,#FACILITY2,#FACILITY2_LOCATION2,#TSS_FULL_ORDER_EXPO_BOOTH1,5,TRUE,#DUE_DATE

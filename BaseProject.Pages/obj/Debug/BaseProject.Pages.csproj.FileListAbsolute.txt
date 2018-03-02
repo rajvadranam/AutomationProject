@@ -1,0 +1,78 @@
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\bin\Debug\Mettel.Automation.Passport.Pages.dll.config
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\bin\Debug\Mettel.Automation.Passport.Pages.dll
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\bin\Debug\Mettel.Automation.Passport.Pages.pdb
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\bin\Debug\Cigniti.Automation.Mercury.dll
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\bin\Debug\Cigniti.Automation.Mercury.Report.dll
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\bin\Debug\System.Net.Http.Extensions.dll
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\bin\Debug\System.Net.Http.Primitives.dll
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\bin\Debug\WebDriver.dll
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\bin\Debug\WebDriver.Support.dll
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\bin\Debug\Cigniti.Automation.Mercury.Report.pdb
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\bin\Debug\Cigniti.Automation.Mercury.pdb
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\bin\Debug\System.Net.Http.Extensions.xml
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\bin\Debug\System.Net.Http.Primitives.xml
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\obj\Debug\BaseProject.Pages.csproj.App.config
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\obj\Debug\BaseProject.Pages.csprojResolveAssemblyReference.cache
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\obj\Debug\Mettel.Automation.Passport.Pages.dll
+C:\myDATA\Cs development\New project\Freeman.Automation.Passport.Pages\obj\Debug\Mettel.Automation.Passport.Pages.pdb
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\bin\Debug\Mettel.Automation.Passport.Pages.dll.config
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\bin\Debug\Mettel.Automation.Passport.Pages.dll
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\bin\Debug\Mettel.Automation.Passport.Pages.pdb
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\bin\Debug\Cigniti.Automation.Mercury.dll
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\bin\Debug\Cigniti.Automation.Mercury.Report.dll
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\bin\Debug\System.Net.Http.Extensions.dll
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\bin\Debug\System.Net.Http.Primitives.dll
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\bin\Debug\WebDriver.dll
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\bin\Debug\WebDriver.Support.dll
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\bin\Debug\Cigniti.Automation.Mercury.Report.pdb
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\bin\Debug\Cigniti.Automation.Mercury.pdb
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\bin\Debug\System.Net.Http.Extensions.xml
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\bin\Debug\System.Net.Http.Primitives.xml
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\obj\Debug\BaseProject.Pages.csproj.App.config
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\obj\Debug\BaseProject.Pages.csprojResolveAssemblyReference.cache
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\obj\Debug\Mettel.Automation.Passport.Pages.dll
+C:\myDATA\Cs_development\newP1\Freeman.Automation.Passport.Pages\obj\Debug\Mettel.Automation.Passport.Pages.pdb
+C:\myDATA\Cigniti_Old\AutomationProject\Freeman.Automation.Passport.Pages\obj\Debug\BaseProject.Pages.csproj.App.config
+C:\myDATA\Cigniti_Old\AutomationProject\Freeman.Automation.Passport.Pages\obj\Debug\BaseProject.Pages.csprojResolveAssemblyReference.cache
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\bin\Debug\BaseProject.Pages.dll.config
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\bin\Debug\BaseProject.Pages.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\bin\Debug\BaseProject.Pages.pdb
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\bin\Debug\BaseProject.Report.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\bin\Debug\Cigniti.Automation.Mercury.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\bin\Debug\System.Net.Http.Extensions.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\bin\Debug\System.Net.Http.Primitives.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\bin\Debug\WebDriver.Support.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\bin\Debug\BaseProject.Report.pdb
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\bin\Debug\Cigniti.Automation.Mercury.pdb
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\bin\Debug\System.Net.Http.Extensions.xml
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\bin\Debug\System.Net.Http.Primitives.xml
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\obj\Debug\BaseProject.Pages.csproj.App.config
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\obj\Debug\BaseProject.Pages.csprojResolveAssemblyReference.cache
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\obj\Debug\BaseProject.Pages.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject.Pages\obj\Debug\BaseProject.Pages.pdb
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\BaseProject.Pages.dll.config
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\BaseProject.Pages.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\BaseProject.Pages.pdb
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\BaseProject.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\BaseProject.Report.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\Microsoft.VisualStudio.QualityTools.CodedUITestFramework.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\RelevantCodes.ExtentReports.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\System.Net.Http.Extensions.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\System.Net.Http.Primitives.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\WebDriver.Support.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\BaseProject.Report.pdb
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\BaseProject.Report.dll.config
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\BaseProject.pdb
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\BaseProject.dll.config
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\System.Net.Http.Extensions.xml
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\bin\Debug\System.Net.Http.Primitives.xml
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\obj\Debug\BaseProject.Pages.csproj.App.config
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\obj\Debug\BaseProject.Pages.csprojResolveAssemblyReference.cache
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\obj\Debug\BaseProject.Pages.csproj.CoreCompileInputs.cache
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\obj\Debug\BaseProject.Pages.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject.Pages\obj\Debug\BaseProject.Pages.pdb

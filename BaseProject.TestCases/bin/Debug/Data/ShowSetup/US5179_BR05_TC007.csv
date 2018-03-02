@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,MoveInDate1,MoveOutDate1,ProjectName,AccountProject,Facility,ProjectOpenDate,ProjectCloseDate,MoveInDate,MoveOutDate,ProjectTimeZone,Acronym
+1,Yes,,US5179_BR05_TC007,Account Admin_Create New Project,#USER_EXTERNAL_EXPO_ACCOUNT_ADMIN_NAME,#USER_EXTERNAL_EXPO_ACCOUNT_ADMIN_PASSWORD,01/02/2016,01/01/2016,TAP4,TAP_ACC4,#FACILITY3,01/01/2016,01/02/2016,01/01/2016,01/02/2016,-09:00 Alaska,Acro4

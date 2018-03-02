@@ -1,0 +1,8 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,url
+1,Yes,,TestExample,ABC News Page stories only,http://abcnews.go.com/
+1,Yes,,TestExample,CBS News Page stories only,https://www.cbsnews.com/
+1,Yes,,TestExample,CNN News Page stories only,https://www.cnn.com/
+1,Yes,,TestExample,Infowars News Page stories only,https://www.infowars.com/category/featured-stories/
+1,Yes,,TestExample,NewyorkTimes News Page stories only,https://www.nytimes.com/
+1,Yes,,TestExample,Breitbart News Page stories only,http://www.breitbart.com
+1,Yes,,TestExample,Huffington Landingpage News Page stories only,https://www.huffingtonpost.com/

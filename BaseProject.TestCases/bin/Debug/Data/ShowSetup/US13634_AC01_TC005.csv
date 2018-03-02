@@ -1,0 +1,4 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,Project,Account,AccountType
+1,Yes,,US13634_AC01_TC005,Account user_Can navigate to Functional area page Project account information from dashboard_Show link,#USER_EXTERNAL_EXPO_ACCOUNT_TEAM_MEMBER_NAME1,#USER_EXTERNAL_EXPO_ACCOUNT_TEAM_MEMBER1_PASSWORD,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXPO_TSS_FULL_ORDER,Expo
+2,Yes,,US13634_AC01_TC005,Account user_Can navigate to Functional area page Project account information from dashboard_Show link,#USER_EXTERNAL_EXPO_ACCOUNT_TEAM_MEMBER_NAME1,#USER_EXTERNAL_EXPO_ACCOUNT_TEAM_MEMBER1_PASSWORD,#SHOW_INTERNAL_NON_FULL_ORDER,#ACCOUNT_EXPO_INTERNAL_NON_FULL_ORDER,Expo
+3,Yes,,US13634_AC01_TC005,Account user_Can navigate to Functional area page Project account information from dashboard_Show link,#USER_EXTERNAL_EXPO_ACCOUNT_TEAM_MEMBER_NAME1,#USER_EXTERNAL_EXPO_ACCOUNT_TEAM_MEMBER1_PASSWORD,#SHOW_EXTERNAL_NON_FULL_ORDER,#ACCOUNT_EXPO_EXTERNAL_NON_FULL_ORDER,Expo

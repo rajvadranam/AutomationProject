@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,Project,Account,FunctionalArea
+1,Yes,,US10981_TC001,User_Can edit all tabs in FA pop-up except General Info from line item summary page,#USER_EXTERNAL_EXPO_ACCOUNT_ADMIN_NAME,#USER_EXTERNAL_EXPO_ACCOUNT_ADMIN_PASSWORD,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXPO_SFDC_INTERNAL_NON_FULL_ORDER,#TSS_FULL_ORDER_EXPO_FUNCTIONAL_AREA4

@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,Vendor,PriceListName,PriceListFileName
+1,Yes,,US5305_BR07_TC007,Account Team Member_Replace price list_Replace button,#USER_EXTERNAL_VENDOR_PERMISSION_NAME,#USER_EXTERNAL_VENDOR_PERMISSION_PASSWORD,#VENDOR_THIRD_PARTY,Automation_Test,PriceListTemplate.csv

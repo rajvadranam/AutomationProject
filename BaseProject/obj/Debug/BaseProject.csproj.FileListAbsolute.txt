@@ -1,0 +1,88 @@
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.dll.config
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.dll
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.pdb
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.Report.dll
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\bin\Debug\System.Net.Http.Extensions.dll
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\bin\Debug\System.Net.Http.Primitives.dll
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\bin\Debug\WebDriver.dll
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\bin\Debug\WebDriver.Support.dll
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.Report.pdb
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\bin\Debug\System.Net.Http.Extensions.xml
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\bin\Debug\System.Net.Http.Primitives.xml
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\obj\Debug\BaseProject.csproj.App.config
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\obj\Debug\BaseProject.csprojResolveAssemblyReference.cache
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\obj\Debug\Cigniti.Automation.Mercury.dll
+C:\myDATA\Cs development\New project\Cigniti.Automation.Mercury\obj\Debug\Cigniti.Automation.Mercury.pdb
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.dll.config
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.dll
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.pdb
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.Report.dll
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\bin\Debug\System.Net.Http.Extensions.dll
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\bin\Debug\System.Net.Http.Primitives.dll
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\bin\Debug\WebDriver.dll
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\bin\Debug\WebDriver.Support.dll
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.Report.pdb
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\bin\Debug\System.Net.Http.Extensions.xml
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\bin\Debug\System.Net.Http.Primitives.xml
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\obj\Debug\BaseProject.csproj.App.config
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\obj\Debug\Cigniti.Automation.Mercury.dll
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\obj\Debug\Cigniti.Automation.Mercury.pdb
+C:\myDATA\Cs_development\newP1\Cigniti.Automation.Mercury\obj\Debug\BaseProject.csprojResolveAssemblyReference.cache
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.dll.config
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.dll
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.pdb
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.Report.dll
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\bin\Debug\System.Net.Http.Extensions.dll
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\bin\Debug\System.Net.Http.Primitives.dll
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\bin\Debug\WebDriver.dll
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\bin\Debug\WebDriver.Support.dll
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\bin\Debug\Cigniti.Automation.Mercury.Report.pdb
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\bin\Debug\System.Net.Http.Extensions.xml
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\bin\Debug\System.Net.Http.Primitives.xml
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\obj\Debug\BaseProject.csproj.App.config
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\obj\Debug\BaseProject.csprojResolveAssemblyReference.cache
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\obj\Debug\Cigniti.Automation.Mercury.dll
+C:\myDATA\Cigniti_Old\AutomationProject\Cigniti.Automation.Mercury\obj\Debug\Cigniti.Automation.Mercury.pdb
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\bin\Debug\Cigniti.Automation.Mercury.dll.config
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\bin\Debug\Cigniti.Automation.Mercury.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\bin\Debug\Cigniti.Automation.Mercury.pdb
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\bin\Debug\BaseProject.Report.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\bin\Debug\System.Net.Http.Extensions.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\bin\Debug\System.Net.Http.Primitives.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\bin\Debug\WebDriver.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\bin\Debug\WebDriver.Support.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\bin\Debug\BaseProject.Report.pdb
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\bin\Debug\System.Net.Http.Extensions.xml
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\bin\Debug\System.Net.Http.Primitives.xml
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\obj\Debug\BaseProject.csproj.App.config
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\obj\Debug\BaseProject.csprojResolveAssemblyReference.cache
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\obj\Debug\Cigniti.Automation.Mercury.dll
+C:\myDATA\Cigniti_Old\AutomationProject\BaseProject\obj\Debug\Cigniti.Automation.Mercury.pdb
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\BaseProject.dll.config
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\BaseProject.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\BaseProject.pdb
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\BaseProject.Report.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\RelevantCodes.ExtentReports.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\System.Net.Http.Extensions.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\System.Net.Http.Primitives.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\WebDriver.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\WebDriver.Support.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\BaseProject.Report.pdb
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\BaseProject.Report.dll.config
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\System.Net.Http.Extensions.xml
+D:\CS_Development\Selenium\AutomationProject\BaseProject\bin\Debug\System.Net.Http.Primitives.xml
+D:\CS_Development\Selenium\AutomationProject\BaseProject\obj\Debug\BaseProject.csproj.App.config
+D:\CS_Development\Selenium\AutomationProject\BaseProject\obj\Debug\BaseProject.csprojResolveAssemblyReference.cache
+D:\CS_Development\Selenium\AutomationProject\BaseProject\obj\Debug\BaseProject.csproj.CoreCompileInputs.cache
+D:\CS_Development\Selenium\AutomationProject\BaseProject\obj\Debug\BaseProject.dll
+D:\CS_Development\Selenium\AutomationProject\BaseProject\obj\Debug\BaseProject.pdb

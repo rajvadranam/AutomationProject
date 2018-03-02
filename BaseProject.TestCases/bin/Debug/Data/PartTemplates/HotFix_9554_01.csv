@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,Project,Account,Part,Functional Area,Facility,Location,Booth,Quantity,Width,Height,LineItemDescription,Landscape,Vendor
+1,Yes,,HotFix_9554_01,Success Message_Graphic Parts_Submit to Collaboration,#USER_INTERNAL_EXPO_PROJECT_ADMIN_NAME,Freeman1,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXPO_TSS_FULL_ORDER,1M SINGLE SIDED SIGN,#TSS_FULL_ORDER_EXPO_FUNCTIONAL_AREA1,#FACILITY2,#FACILITY2_LOCATION2,#TSS_FULL_ORDER_EXPO_BOOTH1,5,40,10,1M SINGLE SIDED SIGN New Value,Landscape,Freeman

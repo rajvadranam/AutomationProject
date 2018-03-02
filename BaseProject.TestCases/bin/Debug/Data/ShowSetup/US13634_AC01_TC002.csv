@@ -1,0 +1,3 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,Project,Account
+1,Yes,,US13634_AC01_TC002,Account user_Can navigate to Functional area page from dashboard_Show link,#USER_INTERNAL_AE8,#USER_INTERNAL_AE8_PASSWORD,#SHOW_TSS_FULL_ORDER,#ACCOUNT_EXPO_TSS_FULL_ORDER
+2,Yes,,US13634_AC01_TC002,Account user_Can navigate to Functional area page from dashboard_Show link,#USER_INTERNAL_AE8,#USER_INTERNAL_AE8_PASSWORD,#SHOW_INTERNAL_NON_FULL_ORDER,#ACCOUNT_EXPO_INTERNAL_NON_FULL_ORDER1

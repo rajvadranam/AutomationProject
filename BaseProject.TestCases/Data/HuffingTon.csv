@@ -1,0 +1,4 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,url
+1,Yes,,HuffingTon,Huffington post Us  News Page stories only,https://www.huffingtonpost.com/section/us-news
+1,Yes,,HuffingTon,Huffington post World News Page stories only,https://www.huffingtonpost.com/section/world-news
+1,Yes,,HuffingTon,Huffington post Trumpadminitration News Page stories only,https://www.huffingtonpost.com/topic/trump-administration

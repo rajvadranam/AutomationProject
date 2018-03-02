@@ -1,0 +1,2 @@
+TDID,Run,DefectID,TestCaseID,TestCase_Title,UserName,Password,ProjectName,UserType,ProjectAccount,AccountType,PartDescription,BoothSize,BoothType,MaxHeight,ShowRegulations,Facility,Booth,Location,Quantity,DesignBranch,Category
+1,Yes,,US8002_BR03_TC004,Required fields_Structure parts_Exhibit account,#USER_INTERNAL_EXHIBIT_PROJECT_AE,Freeman1,#SHOW_TSS_FULL_ORDER,Internal,#ACCOUNT_EXHIBIT_TSS_FULL_ORDER,Expo,CUSTOM EXHIBIT,10x20,In-Line,12',Cubic Content,#FACILITY2,#TSS_FULL_ORDER_EXHIBIT_BOOTH1,#FACILITY2_LOCATION2,10,TEST,Structure

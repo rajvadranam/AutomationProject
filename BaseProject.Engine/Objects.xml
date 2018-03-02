@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PageFactory>
+  <page title ="Login Page">
+    <object>
+      <name>UserNamTxtBox</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//input[@id='LoginForm_UserName']</value>
+    </object>
+    <object>
+      <name>PasswordTxtBox</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//input[@id='LoginForm_Password']</value>
+    </object>
+    <object>
+      <name>LoginBtn</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//button[@type='submit']</value>
+    </object>
+    <object>
+      <name>LoadingImage</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//div[@id='general-loading' and contains(@style, 'display: none;')]</value>
+    </object>
+  </page>
+  <page title ="AbCNews Page">
+  <object>
+    <name>StoryCount</name>
+    <identifyBy>xpath</identifyBy>
+    <value>//a[contains(@href,'') and contains(@class,' yr-card')]</value>
+  </object>
+  <object>
+    <name>storyHeader</name>
+    <identifyBy>xpath</identifyBy>
+    <value>//*[contains(@class,'article-header')]</value>
+  </object>
+  <object>
+    <name>Story</name>
+    <identifyBy>xpath</identifyBy>
+    <value>//*[contains(@class,'article-copy')]</value>
+  </object>
+  </page>
+  <page title ="CBSNews Page">
+    <object>
+      <name>StoryCount_CBS</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[contains(@href,'/news/')]</value>
+    </object>
+      <object>
+      <name>storyHeader_CBS</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//h1[@class='title']</value>
+    </object>
+    <object>
+      <name>storyHeaderMeta_CBS</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//div[@class='byline']</value>
+    </object>
+    <object>
+      <name>Story_CBS</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[@class='entry']</value>
+    </object>
+  </page>
+  <page title ="CNNNews Page">
+    <object>
+      <name>StoryCount_CNN</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[contains(@href,'index.html')]</value>
+    </object>
+    <object>
+      <name>storyHeader_CNN</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[contains(@class,'pg-headline')]</value>
+    </object>
+    <object>
+      <name>storyHeaderMeta_CNN</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[contains(@class,'metadata')]</value>
+    </object>
+    <object>
+      <name>Story_CNN</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[contains(@id,'body-text')]</value>
+    </object>
+  </page>
+
+  <page title ="InfowarsNews Page">
+    <object>
+      <name>StoryCount_INF</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//article//h3/*[contains(@href,'://')]</value>
+    </object>
+    <object>
+      <name>storyHeader_INF</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[contains(@class,'article-header')]</value>
+    </object>
+    <object>
+      <name>storyHeaderMeta_INF</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[contains(@class,'metadata')]</value>
+    </object>
+    <object>
+      <name>Story_INF</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[contains(@class,'text')]/article</value>
+    </object>
+  </page>
+  <page title ="NewYorkTimes Page">
+    <object>
+      <name>StoryCount_NYT</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//a[contains(@class,'story-link') or contains(@href,'/us/') or contains(@href,'/world/') or contains(@href,'/insider/')]</value>
+    </object>
+    <object>
+      <name>storyHeader_NYT</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//h1[@id='headline']</value>
+    </object>
+    <object>
+      <name>storyHeaderMeta_NYT</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[@class='story-meta-footer']</value>
+    </object>
+    <object>
+      <name>Story_NYT</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[contains(@class,'story-body story-body')]/p</value>
+    </object>
+  </page>
+
+  <page title ="Breitbart Page">
+    <object>
+      <name>StoryCount_BB</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[@id='ContainerW']//*[@class='title']/a</value>
+    </object>
+    <object>
+      <name>storyHeader_BB</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[@class='articleheader']/h1 </value>
+    </object>
+    <object>
+      <name>storyHeaderMeta_BB</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[@class='byline']</value>
+    </object>
+    <object>
+      <name>Story_BB</name>
+      <identifyBy>classname</identifyBy>
+      <value>entry-content</value>
+    </object>
+  </page>
+  <page title ="HuffingtonPost Page">
+    <object>
+      <name>StoryCount_HFP</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//a[contains(@class,'js-card') or contains(@class,'yr-card') and contains(@class,'clickable')]</value>
+    </object>
+    <object>
+      <name>storyHeader_HFP</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[contains(@class,'headline__title')]</value>
+    </object>
+    <object>
+      <name>storyHeaderMeta_HFP</name>
+      <identifyBy>xpath</identifyBy>
+      <value>//*[contains(@class,'byline')]</value>
+    </object>
+    <object>
+      <name>Story_HFP</name>
+      <identifyBy>id</identifyBy>
+      <value>entry-text</value>
+    </object>
+
+    <object>
+      <name>Story_HFP_cn</name>
+      <identifyBy>classname</identifyBy>
+      <value>entry__text js-entry-text bn-entry-text yr-entry-text</value>
+    </object>
+    
+  </page>
+  
+</PageFactory>
